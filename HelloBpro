@@ -1,0 +1,6 @@
+using System;
+class MyClass {
+    static void Main(string[] args) {
+        System.Console.WriteLine("Hello BanyanPro!\n");
+    }
+}
